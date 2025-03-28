@@ -1,0 +1,10 @@
+/Users/ishaan/Developer/turbin3/rust_task/target/debug/deps/libsolana_udp_client-e5f595cde488fa6f.rmeta: /Users/ishaan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-udp-client-1.18.26/src/lib.rs /Users/ishaan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-udp-client-1.18.26/src/nonblocking/mod.rs /Users/ishaan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-udp-client-1.18.26/src/nonblocking/udp_client.rs /Users/ishaan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-udp-client-1.18.26/src/udp_client.rs
+
+/Users/ishaan/Developer/turbin3/rust_task/target/debug/deps/libsolana_udp_client-e5f595cde488fa6f.rlib: /Users/ishaan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-udp-client-1.18.26/src/lib.rs /Users/ishaan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-udp-client-1.18.26/src/nonblocking/mod.rs /Users/ishaan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-udp-client-1.18.26/src/nonblocking/udp_client.rs /Users/ishaan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-udp-client-1.18.26/src/udp_client.rs
+
+/Users/ishaan/Developer/turbin3/rust_task/target/debug/deps/solana_udp_client-e5f595cde488fa6f.d: /Users/ishaan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-udp-client-1.18.26/src/lib.rs /Users/ishaan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-udp-client-1.18.26/src/nonblocking/mod.rs /Users/ishaan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-udp-client-1.18.26/src/nonblocking/udp_client.rs /Users/ishaan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-udp-client-1.18.26/src/udp_client.rs
+
+/Users/ishaan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-udp-client-1.18.26/src/lib.rs:
+/Users/ishaan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-udp-client-1.18.26/src/nonblocking/mod.rs:
+/Users/ishaan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-udp-client-1.18.26/src/nonblocking/udp_client.rs:
+/Users/ishaan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-udp-client-1.18.26/src/udp_client.rs:

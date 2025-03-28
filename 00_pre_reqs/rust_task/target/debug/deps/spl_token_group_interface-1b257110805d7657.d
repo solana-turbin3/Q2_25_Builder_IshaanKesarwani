@@ -1,0 +1,8 @@
+/Users/ishaan/Developer/turbin3/rust_task/target/debug/deps/libspl_token_group_interface-1b257110805d7657.rmeta: /Users/ishaan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.1.0/src/lib.rs /Users/ishaan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.1.0/src/error.rs /Users/ishaan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.1.0/src/instruction.rs /Users/ishaan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.1.0/src/state.rs
+
+/Users/ishaan/Developer/turbin3/rust_task/target/debug/deps/spl_token_group_interface-1b257110805d7657.d: /Users/ishaan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.1.0/src/lib.rs /Users/ishaan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.1.0/src/error.rs /Users/ishaan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.1.0/src/instruction.rs /Users/ishaan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.1.0/src/state.rs
+
+/Users/ishaan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.1.0/src/lib.rs:
+/Users/ishaan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.1.0/src/error.rs:
+/Users/ishaan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.1.0/src/instruction.rs:
+/Users/ishaan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.1.0/src/state.rs:
