@@ -4,8 +4,8 @@ use solana_client::rpc_client::RpcClient;
 mod programs;
 use solana_program::instruction::{AccountMeta, Instruction};
 use std::io::BufRead;
-// use crate::programs::turbin3_prereq::{Turbin3Prereq, CompleteArgs};
-use solana_program::{
+
+\use solana_program::{
     hash::hash,
     pubkey::Pubkey,
     system_instruction::transfer,
@@ -22,9 +22,7 @@ use std::str::FromStr;
 
 #[cfg(test)]
 mod tests {
-    use super::*;
-    // use crate::programs::turbin3_prereq::{Turbin3PrereqProgram, CompleteArgs};
-    use solana_client::rpc_client::RpcClient;
+    use super::*;  use solana_client::rpc_client::RpcClient;
     use solana_program::system_program;
     use solana_sdk::{
         signature::{read_keypair_file, Signer},
