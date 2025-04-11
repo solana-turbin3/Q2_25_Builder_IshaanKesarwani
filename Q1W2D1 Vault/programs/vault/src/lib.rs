@@ -3,7 +3,6 @@ use anchor_lang::system_program::{transfer, Transfer};
 
 declare_id!("AShr8sPKbtRYafAHig3WGHtbGkqRwErbSvywWfzraDZn");
 
-
 #[program]
 pub mod vault_anchor {
     use super::*;
